@@ -2,7 +2,6 @@ package ejercicioArrayList2;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-
 public class Principal {
 
 	public static void main(String[] args) {
@@ -13,6 +12,8 @@ public class Principal {
 		double dob;
 		int num,onum = 0;
 		System.out.println("soy el master");
+		System.out.println("Soy rama2");
+
 		do
 		{
 			
